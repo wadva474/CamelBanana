@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CamelBanana</string>
+    <string name="enter_number_of_banana">Enter Number Of Banana</string>
+    <string name="enter_distance_to_market">Enter Distance to market</string>
+    <string name="enter_the_number_of_banana">Enter the Number of Banana</string>
+    <string name="select_number_of_camel">Select Number Of Camel</string>
+    <string name="number_of_bananapkm">Select Number Of Banana Per Km</string>
+    <string name="Number_of_banana_in_Market">Calculate Number Of Banana</string>
+    <string name="Show_number_of_banana">Show Number of banana</string>
+    <string name="maximum_number">The Maximum Number of bananas you can get to the market is </string>
+    <string name="sorry">Sorry you cannot get any Banana to the market</string>
+    <string name="camel">Camel</string>
+    <string name="banana">Banana</string>
+    <string name="lets_get_st">Lets get started</string>
+</resources>
